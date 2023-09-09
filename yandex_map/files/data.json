@@ -1,0 +1,39 @@
+{
+  "points": [
+    {
+      "level": "1",
+      "latitude": 44.006516,
+      "longitude": 56.326797
+    },
+    {
+      "level": "2",
+      "latitude": 44.022138,
+      "longitude": 56.32488
+    },
+    {
+      "level": "3",
+      "latitude": 43.877788,
+      "longitude": 56.268496
+    },
+    {
+      "level": "5",
+      "latitude": 44.009959204636466,
+      "longitude": 56.32142691174493
+    },
+    {
+      "level": "4",
+      "latitude": 43.98787230660255,
+      "longitude": 56.30946435198299
+    },
+    {
+      "level": "2",
+      "latitude": 44.02860289803392,
+      "longitude": 56.319056794600215
+    },
+    {
+      "level": "1",
+      "latitude": 43.9922392978488,
+      "longitude": 56.32263996382688
+    }
+  ]
+}
